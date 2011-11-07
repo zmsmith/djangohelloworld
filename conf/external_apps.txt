@@ -1,0 +1,4 @@
+pip
+django
+django-extensions
+gunicorn
